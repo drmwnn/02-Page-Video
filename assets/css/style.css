@@ -1,0 +1,7 @@
+#lg-components-1 {
+    display: none;
+}
+
+#lg-outer-1:hover #lg-components-1 {
+    display: block;
+}
